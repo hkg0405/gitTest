@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     123
+    456
   </div>
 </template>
 
