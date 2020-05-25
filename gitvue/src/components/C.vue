@@ -1,7 +1,7 @@
 <template>
-    <header class="c_one">
-        这是ProjectOne创建的c组件
-    </header>
+    <div class="c_two">
+        这是ProjectTwo创建的C组件
+    </div>
 </template>
 
 <script>
